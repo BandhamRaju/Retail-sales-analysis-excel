@@ -43,4 +43,4 @@ This project analyzes retail sales data using Excel to uncover business insights
 ---
 
 ## 👤 Author
-Bandham Raju
+Raju Bandham
